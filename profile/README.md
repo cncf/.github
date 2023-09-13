@@ -6,7 +6,7 @@ The [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/) hosts criti
 
 We bring together the world's top developers, end users, and vendors and run the largest open source developer conferences. CNCF is part of the nonprofit [Linux Foundation](https://linuxfoundation.org/).
 
-* [Try our stable graduated and incubating projects](https://www.cncf.io/projects/)
+* [Try our graduated and incubating projects](https://www.cncf.io/projects/)
 * [See our early-stage sandbox projects](https://www.cncf.io/sandbox-projects/)
 * [Explore the Cloud Native Landscape](https://landscape.cncf.io/)
 * [Join the end user community](https://www.cncf.io/enduser/)
