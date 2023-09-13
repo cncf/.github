@@ -1,5 +1,7 @@
 ![Cloud Native Computing Foundation](./cncf-color-white-bg-github.png)
 
+----
+
 The [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/) hosts critical components of the global technology infrastructure.
 
 We bring together the world's top developers, end users, and vendors and run the largest open source developer conferences. CNCF is part of the nonprofit [Linux Foundation](https://linuxfoundation.org/).
