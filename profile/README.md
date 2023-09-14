@@ -1,4 +1,4 @@
-![Cloud Native Computing Foundation](./cncf-color-white-bg-github.png)
+![Cloud Native Computing Foundation](https://raw.githubusercontent.com/cncf/.github/master/profile/cncf-color-white-bg-github.png)
 
 ----
 
